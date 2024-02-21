@@ -21,12 +21,12 @@
  
 <div align="center">
   <a href="#">
-      <img src="https://github.com/carloscazelattojr/weather-app/blob/main/asset/p1.jpeg" width="200" alt="preview" />
-    <img src="https://github.com/carloscazelattojr/weather-app/blob/main/asset/p2.jpeg" width="200" alt="preview" />      
+      <img src="https://github.com/carloscazelattojr/weather-app/blob/main/assets/p1.jpeg" width="200" alt="preview" />
+    <img src="https://github.com/carloscazelattojr/weather-app/blob/main/assets/p2.jpeg" width="200" alt="preview" />      
   </a>
 </div>
 
-
+https://github.com/carloscazelattojr/
 
 
 ## libs
