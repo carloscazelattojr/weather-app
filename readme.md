@@ -26,10 +26,7 @@
   </a>
 </div>
 
-https://github.com/carloscazelattojr/
-
-
-## libs
+ ## libs
  
 ```
 
