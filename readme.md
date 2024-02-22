@@ -14,6 +14,7 @@
 - React Native
 - Nativewind e TailwinCss
 - React-Native-Reanimated
+- Expo
 - Axios
 - Weather-API: [https://www.weatherapi.com]
 
